@@ -1,0 +1,13 @@
+{
+  "artboards": [
+    { "file": "Connect.dc.html", "x": 0, "y": 0, "w": 393, "h": 852 },
+    { "file": "Main.dc.html", "x": 473, "y": 0, "w": 393, "h": 852 },
+    { "file": "Touchpad.dc.html", "x": 946, "y": 0, "w": 393, "h": 852 },
+    { "file": "Keyboard.dc.html", "x": 1419, "y": 0, "w": 393, "h": 852 },
+    { "file": "Settings.dc.html", "x": 1892, "y": 0, "w": 393, "h": 852 }
+  ],
+  "annotations": [
+    { "id": "direction", "x": 0, "y": -170, "w": 340, "text": "Dark & minimal iOS remote for Xiaomi TV P1e.\nFlow: Connect → Main remote ⇄ Touchpad · Keyboard sheet · Settings.\nAccent color is adjustable per screen — try the swatches above each artboard." }
+  ],
+  "launch": { "view": "canvas" }
+}
